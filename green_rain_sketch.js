@@ -1,3 +1,4 @@
+/* What the heck? */
 var streams = [];
 var fadeInterval = 1.6;
 var symbolSize = 24;
